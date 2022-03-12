@@ -32,13 +32,38 @@ Here are some ideas to get you started:
 
 #### Frameworks
 <div>
+  Spring boot.. Nodejs.. VueJs.. NuxtJs.. Angular.. React.. 
+</div>
+
+#### AI
+<div>
+  Tensorflow.. 
 </div>
 
 #### Database
 <div>
+  MariaDB.. MongoDB.. Mssql.. InfluxDB.. Firebase Realtime DB.. PostgreSql
+</div>
+
+#### DevOps
+<div>
+  AWS.. Docker.. Kubernetes.. Jenkins.. 
 </div>
 
 #### Tools
 <div>
+  Intellij.. Visual Studio Code.. Visual Studio.. Android Studio.. Unity.. 
+</div>
+
+
+#### Collaboration Tools
+<div>
+  Git.. Source Tree.. Jira.. Confluence Wiki.. Mattermost.. Gitlab..
+</div>
+
+
+#### Certificate
+<div>
+  정보처리기사.. SQLD.. 네트워크 관리사 2급.. AWS(associate solution architect)<진행중>..
 </div>
 
