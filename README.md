@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+Will be updated soon
+
 <!--
 **HOBOOK/HOBOOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,13 +19,26 @@ Here are some ideas to get you started:
 -->
 
 
-### Languages
+#### Languages
+<div>
+  <img src="https://img.shields.io/badge/java-brightgreen?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-brightgreen?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-brightgreen?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-brightgreen?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/csharp-brightgreen?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-brightgreen?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dart-brightgreen?style=flat-square&logo=dart&logoColor=white"/>
+</div>
 
-<img src="https://img.shields.io/badge/java-brightgreen?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-brightgreen?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5-brightgreen?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-brightgreen?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/csharp-brightgreen?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-brightgreen?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/dart-brightgreen?style=for-the-badge&logo=dart&logoColor=white"/>
+#### Frameworks
+<div>
+</div>
+
+#### Database
+<div>
+</div>
+
+#### Tools
+<div>
+</div>
 
