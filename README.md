@@ -27,7 +27,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/css3-brightgreen?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/csharp-brightgreen?style=flat-square&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-brightgreen?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dart-brightgreen?style=flat-square&logo=dart&logoColor=white"/>
 </div>
 
 #### Frameworks
