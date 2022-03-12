@@ -21,65 +21,65 @@ Here are some ideas to get you started:
 
 #### Languages
 <div>
-  <img src="https://img.shields.io/badge/java-brightgreen?style=flat-square&logo=java"/>
-  <img src="https://img.shields.io/badge/javascript-brightgreen?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/html5-brightgreen?style=flat-square&logo=html5"/>
-  <img src="https://img.shields.io/badge/css3-brightgreen?style=flat-square&logo=css3"/>
-  <img src="https://img.shields.io/badge/csharp-brightgreen?style=flat-square&logo=csharp"/>
-  <img src="https://img.shields.io/badge/python-brightgreen?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/java-333?style=flat-square&logo=java&logoColor=007396"/>
+  <img src="https://img.shields.io/badge/javascript-333?style=flat-square&logo=javascript&logoColor=f7df1e"/>
+  <img src="https://img.shields.io/badge/html5-333?style=flat-square&logo=html5&logoColor=e34f26"/>
+  <img src="https://img.shields.io/badge/css3-333?style=flat-square&logo=css3&logoColor=1572b6"/>
+  <img src="https://img.shields.io/badge/csharp-333?style=flat-square&logo=csharp&logoColor=239120"/>
+  <img src="https://img.shields.io/badge/python-333?style=flat-square&logo=python&logoColor=3776ab"/>
 </div>
 
 #### Frameworks
 <div>
-  <img src="https://img.shields.io/badge/Spring_boot-brightgreen?style=flat-square&logo=spring-boot"/>
-  <img src="https://img.shields.io/badge/Node.js-brightgreen?style=flat-square&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Vue.js-brightgreen?style=flat-square&logo=vue.js"/>
-  <img src="https://img.shields.io/badge/Nuxt.js-brightgreen?style=flat-square&logo=nuxt.js"/>
-  <img src="https://img.shields.io/badge/Angular-brightgreen?style=flat-square&logo=angular"/>
-  <img src="https://img.shields.io/badge/React-brightgreen?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/Spring_boot-333?style=flat-square&logo=spring-boot&logoColor=6db33f"/>
+  <img src="https://img.shields.io/badge/Node.js-333?style=flat-square&logo=node.js&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/Vue.js-333?style=flat-square&logo=vue.js&logoColor=4fc08d"/>
+  <img src="https://img.shields.io/badge/Nuxt.js-333?style=flat-square&logo=nuxt.js&logoColor=00dc82"/>
+  <img src="https://img.shields.io/badge/Angular-333?style=flat-square&logo=angular&logoColor=dd0031"/>
+  <img src="https://img.shields.io/badge/React-333?style=flat-square&logo=react&logoColor=61dafb"/>
 </div>
 
 #### AI
 <div>
-  <img src="https://img.shields.io/badge/Tensorflow-brightgreen?style=flat-square&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/Tensorflow-333?style=flat-square&logo=tensorflow&logoColor=ff6f00"/>
 </div>
 
 #### Database
 <div>
-  <img src="https://img.shields.io/badge/MariaDB-brightgreen?style=flat-square&logo=mariadb"/>
-  <img src="https://img.shields.io/badge/MongoDB-brightgreen?style=flat-square&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/Mssql-brightgreen?style=flat-square&logo=microsoftsqlserver"/>
-  <img src="https://img.shields.io/badge/InfluxDB-brightgreen?style=flat-square&logo=influxdb"/>
-  <img src="https://img.shields.io/badge/firebase-brightgreen?style=flat-square&logo=firebase"/>
-  <img src="https://img.shields.io/badge/PostgreSql-brightgreen?style=flat-square&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/MariaDB-333?style=flat-square&logo=mariadb&logoColor=003545"/>
+  <img src="https://img.shields.io/badge/MongoDB-333?style=flat-square&logo=mongodb&logoColor=47a248"/>
+  <img src="https://img.shields.io/badge/Mssql-333?style=flat-square&logo=microsoftsqlserver&logoColor=cc2927"/>
+  <img src="https://img.shields.io/badge/InfluxDB-333?style=flat-square&logo=influxdb&logoColor=22adf6"/>
+  <img src="https://img.shields.io/badge/firebase-333?style=flat-square&logo=firebase&logoColor=ffca28"/>
+  <img src="https://img.shields.io/badge/PostgreSql-333?style=flat-square&logo=postgresql&logoColor=4169e1"/>
 </div>
 
 #### DevOps
 <div>
-  <img src="https://img.shields.io/badge/Amazon_AWS-brightgreen?style=flat-square&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/Docker-brightgreen?style=flat-square&logo=docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-brightgreen?style=flat-square&logo=kubernetes"/>
-  <img src="https://img.shields.io/badge/Jenkins-brightgreen?style=flat-square&logo=jenkins"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-333?style=flat-square&logo=amazonaws&logoColor=232f3e"/>
+  <img src="https://img.shields.io/badge/Docker-333?style=flat-square&logo=docker&logoColor=2496ed"/>
+  <img src="https://img.shields.io/badge/Kubernetes-333?style=flat-square&logo=kubernetes&logoColor=326ce5"/>
+  <img src="https://img.shields.io/badge/Jenkins-333?style=flat-square&logo=jenkins&logoColor=d24939"/>
 </div>
 
 #### Tools
 <div>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-brightgreen?style=flat-square&logo=intellijidea"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-brightgreen?style=flat-square&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-brightgreen?style=flat-square&logo=visualstudio"/>
-  <img src="https://img.shields.io/badge/Android_Studio-brightgreen?style=flat-square&logo=androidstudio"/>
-  <img src="https://img.shields.io/badge/Unity-brightgreen?style=flat-square&logo=unity"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-333?style=flat-square&logo=intellijidea&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-333?style=flat-square&logo=visualstudiocode&logoColor=007acc"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-333?style=flat-square&logo=visualstudio&logoColor=5c2d91"/>
+  <img src="https://img.shields.io/badge/Android_Studio-333?style=flat-square&logo=androidstudio&logoColor=3ddc84"/>
+  <img src="https://img.shields.io/badge/Unity-333?style=flat-square&logo=unity&logoColor=fff"/>
 </div>
 
 
 #### Collaboration Tools
 <div>
-  <img src="https://img.shields.io/badge/Git-brightgreen?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/Source_Tree-brightgreen?style=flat-square&logo=sourcetree"/>
-  <img src="https://img.shields.io/badge/Jira-brightgreen?style=flat-square&logo=jira"/>
-  <img src="https://img.shields.io/badge/Confluece_Wiki-brightgreen?style=flat-square&logo=confluence"/>
-  <img src="https://img.shields.io/badge/Mattermost-brightgreen?style=flat-square&logo=mattermost"/>
-  <img src="https://img.shields.io/badge/GitLab-brightgreen?style=flat-square&logo=gitlab"/>
+  <img src="https://img.shields.io/badge/Git-333?style=flat-square&logo=git&logoColor=f05032"/>
+  <img src="https://img.shields.io/badge/Source_Tree-333?style=flat-square&logo=sourcetree&logoColor=0052cc"/>
+  <img src="https://img.shields.io/badge/Jira-333?style=flat-square&logo=jira&logoColor=0052cc"/>
+  <img src="https://img.shields.io/badge/Confluece_Wiki-333?style=flat-square&logo=confluence&logoColor=172b4d"/>
+  <img src="https://img.shields.io/badge/Mattermost-333?style=flat-square&logo=mattermost&logoColor=0058cc"/>
+  <img src="https://img.shields.io/badge/GitLab-333?style=flat-square&logo=gitlab&logoColor=fca121"/>
 </div>
 
 
