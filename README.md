@@ -71,7 +71,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Kubernetes-333?style=flat-square&logo=kubernetes&logoColor=326ce5"/>
 </div>
 
-#### Tools
+#### Dev Tools
 <div>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-333?style=flat-square&logo=intellijidea&logoColor=000"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-333?style=flat-square&logo=visualstudiocode&logoColor=007acc"/>
