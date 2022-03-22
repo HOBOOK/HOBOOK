@@ -1,3 +1,4 @@
+## Introduce
 ### Hi there 👋
 
 
@@ -18,6 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br/>
+<br/>
+
+## Tech Stacks(used & experienced)
 
 #### Languages
 <div>
@@ -40,6 +45,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Nuxt.js-333?style=flat-square&logo=nuxt.js&logoColor=00dc82"/>
 </div>
 <div>
+  <img src="https://img.shields.io/badge/Django-333?style=flat-square&logo=django&logoColor=092E20"/>
+  <img src="https://img.shields.io/badge/Next.js-333?style=flat-square&logo=next.js&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Angular-333?style=flat-square&logo=angular&logoColor=dd0031"/>
   <img src="https://img.shields.io/badge/React-333?style=flat-square&logo=react&logoColor=61dafb"/>
 </div>
