@@ -103,6 +103,20 @@ Here are some ideas to get you started:
 
 #### Certificate
 <div>
-  정보처리기사.. SQLD.. 네트워크 관리사 2급.. AWS(associate solution architect)<진행중>..
+  <ul>
+    <li>
+  정보처리기사
+    </li>
+     <li>
+  SQLD
+        </li>
+           <li>
+  네트워크 관리사 2급
+              </li>
+                 <li>
+  AWS(associate solution architect) - 진행중
+                    </li>
+                
+  </ul>
 </div>
 
