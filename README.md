@@ -45,6 +45,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Nuxt.js-333?style=flat-square&logo=nuxt.js&logoColor=00dc82"/>
 </div>
 <div>
+  <img src="https://img.shields.io/badge/Svelte-333?style=flat-square&logo=svelte&logoColor=FF3E00"/>
   <img src="https://img.shields.io/badge/Django-333?style=flat-square&logo=django&logoColor=092E20"/>
   <img src="https://img.shields.io/badge/Next.js-333?style=flat-square&logo=next.js&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Angular-333?style=flat-square&logo=angular&logoColor=dd0031"/>
