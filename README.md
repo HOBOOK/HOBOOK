@@ -103,23 +103,3 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-
-## Certificate
-<div>
-  <ul>
-    <li>
-  정보처리기사
-    </li>
-     <li>
-  SQLD
-        </li>
-           <li>
-  네트워크 관리사 2급
-              </li>
-                 <li>
-  AWS(associate solution architect) - 진행중
-                    </li>
-                
-  </ul>
-</div>
-
