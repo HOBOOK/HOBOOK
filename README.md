@@ -106,5 +106,16 @@ Here are some ideas to get you started:
 
 
 ## Certified
+2018.05
+정보처리기사
+
+2020.10
+SQLD
+
+2022.04
+네트워크관리사 2급
+
+2023.09
+AWS Solutions Architect Associate
 <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width=96 height=96/>
 https://www.credly.com/badges/635f6e14-a36e-46d8-b339-50c90f22e4ab/public_url
