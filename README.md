@@ -116,9 +116,11 @@ SQLD
 네트워크관리사 2급
 
 ##### 2023.09
-AWS Solutions Architect Associate - https://www.credly.com/badges/635f6e14-a36e-46d8-b339-50c90f22e4ab/public_url
+AWS Solutions Architect Associate
 
 
 <br/>
+<a href="https://www.credly.com/badges/635f6e14-a36e-46d8-b339-50c90f22e4ab/public_url">
 <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width=96 height=96/>
+</a>
 
