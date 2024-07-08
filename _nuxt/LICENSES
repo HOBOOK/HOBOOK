@@ -60,6 +60,13 @@ and limitations under the License.
  */
 
 
+/**
+ * @license
+ * Copyright 2010-2021 Three.js Authors
+ * SPDX-License-Identifier: MIT
+ */
+
+
 /*!
  * Chart.js v2.9.4
  * https://www.chartjs.org
@@ -70,10 +77,3 @@ and limitations under the License.
 //! moment.js
 
 //! moment.js locale configuration
-
-
-/**
- * @license
- * Copyright 2010-2021 Three.js Authors
- * SPDX-License-Identifier: MIT
- */
